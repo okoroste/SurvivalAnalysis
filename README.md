@@ -1,4 +1,31 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Table of Contents</title>
+  <!-- Import a nice Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <style>
+    .toc-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      text-align: center;
+      margin-top: 50px;
+      color: #2c3e50;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .underline {
+      width: 200px;
+      height: 3px;
+      background-color: #2c3e50;
+      margin: 10px auto;
+      border-radius: 2px;
+    }
+  </style>
+</head>
+
 
  <div>
   <h1>STATISTICAL AND MACHINE LEARNING METHODS IN SURVIVAL ANALYSIS </h1>
@@ -9,7 +36,10 @@
   <img src="" style="width:300px;height:370px;"> 
   </div>
   <br>
-    <\huge\textsc TABLE OF CONTENTS}\\
+  <body>
+  <div class="toc-title">Table of Contents</div>
+  <div class="underline"></div>
+</body>
  <p><h3>CHAPTER 1 FUNDAMENTAL NOTIONS OF SURVIVAL ANALYSIS</h3></p>
  <blockquote>
    <p><a href="">1.1 Introduction</a></p>
