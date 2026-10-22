@@ -61,3 +61,31 @@
   <p><a href="">7.3 Support Vector Machine Model</a></p>
   <p><a href="">7.4 Measures of Model Performance</a></p>
  </blockquote>
+<p><h3>CHAPTER 8 EXTENSIONS OF THE COX PROPORTIONAL HAZARDS MODEL</h3></p>
+ <blockquote>
+  <p><a href="">8.1 Cox Model with Time-dependent Covariates</a></p>
+  <p><a href="">8.2 Cox Model with Time-varying Coefficients</a></p>
+  <p><a href="">8.3 Stratified Cox Model</a></p>
+ </blockquote>
+ <p><h3>CHAPTER 9 SURVIVAL MODELS FOR HETEROGENEOUS POPULATIONS</h3></p>
+ <blockquote>
+  <p><a href="">9.1 Cure Model</a></p>
+  <p><a href="">9.2 Individual Frailty Model</a></p>
+  <p><a href="">9.3 Shared Frailty Model</a></p>
+ </blockquote>
+   <p><h3>CHAPTER 10 SURVIVAL MODELS FOR COMPLEX EVENT HISTORIES</h3></p>
+<blockquote>
+   <p><a href="">10.1 Recurrent Events Model</a></p>
+   <p><a href=""><br><br><br>10.1.1 Andersen–Gill Model</a></p>
+   <p><a href=""><br><br><br>10.1.2 Prentice–Williams–Peterson Model</a></p>
+  <p><a href=""><br><br><br>10.1.3 Wei–Lin–Weissfeld Model</a></p>
+   <p><a href="">10.2 Competing Risks Model</a></p>
+   <p><a href="">10.3 Copula Models</a></p>
+   <p><a href="">10.4 Kendall's tau</a></p>
+ </blockquote>
+   <p><h3>CHAPTER 11 CONTEMPORARY MODELS IN SURVIVAL ANALYSIS</h3></p>
+<blockquote>
+   <p><a href="">11.1 Multistate Model</a></p>
+   <p><a href="">11.2 Joint Longitudinal and Survival Model</a></p>
+   <p><a href="">11.2 Deep Learning Survival Models</a></p>
+ </blockquote>
