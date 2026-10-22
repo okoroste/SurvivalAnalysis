@@ -20,7 +20,7 @@
  </blockquote>
  <p><h3>CHAPTER 2 NONPARAMETRIC ESTIMATORS OF SURVIVAL FUNCTION </h3></p>
  <blockquote>
-   <p><a href="">2.1 Kaplan-Meier Produce Limit Estimator</a></p>
+   <p><a href="">2.1 Kaplan-Meier Product Limit Estimator</a></p>
    <p><a href="">2.2 Greenwood's Variance Estimator for Kaplan-Meier Estimator</a></p>
    <p><a href="">2.3 Kaplan-Meier Survival Curve</a></p>
    <p><a href="">2.4 Nelson–Aalen estimator of Survival Function</a></p>
