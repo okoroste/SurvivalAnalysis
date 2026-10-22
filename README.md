@@ -76,9 +76,9 @@
    <p><h3>CHAPTER 10 SURVIVAL MODELS FOR COMPLEX EVENT HISTORIES</h3></p>
 <blockquote>
    <p><a href="">10.1 Recurrent Events Model</a></p>
-   <p><a href=""><br><br><br>10.1.1 Andersen–Gill Model</a></p>
-   <p><a href=""><br><br><br>10.1.2 Prentice–Williams–Peterson Model</a></p>
-  <p><a href=""><br><br><br>10.1.3 Wei–Lin–Weissfeld Model</a></p>
+   <p><a href="">&nbsp;&nbsp;&nbsp;10.1.1 Andersen–Gill Model</a></p>
+   <p><a href="">&nbsp;&nbsp;&nbsp;10.1.2 Prentice–Williams–Peterson Model</a></p>
+  <p><a href="">&nbsp;&nbsp;&nbsp;10.1.3 Wei–Lin–Weissfeld Model</a></p>
    <p><a href="">10.2 Competing Risks Model</a></p>
    <p><a href="">10.3 Copula Models</a></p>
    <p><a href="">10.4 Kendall's tau</a></p>
